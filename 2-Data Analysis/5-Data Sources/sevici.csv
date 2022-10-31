@@ -1,0 +1,249 @@
+,lat,lon,name,capacity,distrito
+0,37.3978439,-5.9984791,Plaza San Antonio de Padua,20,2
+1,37.3975405,-5.9966186,Calle de Hernán Cortés,17,1
+2,37.3968977,-5.993847,Alameda de Hercúles,20,4
+3,37.40079,-5.9938002,Alameda de Hercúles,20,4
+4,37.3994884,-5.9909861,Plaza Calderón de la Barca,15,4
+5,37.4031482,-5.9918576,Calle Feria,15,3
+6,37.4033474,-5.9890824,Parlamento,20,4
+7,37.4033446,-5.9880344,Parlamento,15,1
+8,37.3952732,-6.0101435,Calle del Inca Garcilaso,40,2
+9,37.3921055,-6.0110319,Calle de Inca Garcilaso,40,4
+10,37.4025275,-5.977637,Avenida de Miraflores,17,4
+11,37.4008296,-5.9752218,Carretera de Carmona,15,1
+12,37.4008477,-5.9794025,Avenida de Miraflores,13,2
+13,37.3983746,-5.981755,Ronda Capuchinos,15,4
+14,37.3976114,-5.9839284,Plaza del Pelícano,16,3
+15,37.3913345,-5.9761846,Estación Renfe Santa Justa,40,3
+16,37.4038881,-5.9949143,Plaza Duquesa de Alba,30,4
+17,37.4020564,-5.986329,Calle Muñoz León,15,4
+18,37.3996998,-5.9839458,Ronda Capuchinos,15,1
+19,37.389754,-5.9870267,Plaza Pilatos,15,1
+20,37.3895946,-5.9845523,Plaza San Agustín,15,1
+21,37.3853038,-5.986738,Paseo Catalina Ribera,20,2
+22,37.3815369,-5.9892332,Paseo Catalina Ribera,20,1
+23,37.3883808,-5.9869733,Plaza de las Mercedarias,10,3
+24,37.3837304,-6.0000313,Calle Betis,19,2
+25,37.3757089,-6.0056255,Glorieta República Dominicana,20,1
+26,37.3747244,-6.0023834,Calle Virgen de Luján,20,4
+27,37.3812765,-6.0010318,Plaza Farmacéutico Murillo Herrera,20,2
+28,37.3776619,-6.0025472,Avenida Esperanza de Triana,14,2
+29,37.3865102,-5.9977998,Calle Adriano,18,4
+30,37.3911108,-6.0031603,Plaza de Armas,39,1
+31,37.3929261,-5.9993175,Plaza del Museo,20,1
+32,37.3889438,-5.9952601,Plaza Nueva,40,3
+33,37.3889073,-5.9955824,Plaza Nueva,30,2
+34,37.4051157,-5.9747843,Avenida de Llanes,20,4
+35,37.4039091,-5.972179,Avenida de Llanes,17,3
+36,37.4071954,-5.9789081,Calle de Madreselva,20,4
+37,37.4085658,-5.970531,Alcalde Manuel del Valle,20,1
+38,37.3898408,-5.9911886,Calle Cuesta de Rosario,15,2
+39,37.4096545,-5.9842555,Calle Doctor Jaime Marcos,20,1
+40,37.4129322,-5.9848934,Ronda Urbana Norte,20,2
+41,37.3886194,-6.010298,Calle Alfarería,20,1
+42,37.3895726,-6.0076755,Plaza Chapina,20,3
+43,37.3951765,-5.9908929,Plaza San Juan de la Palma,15,1
+44,37.3942887,-5.9917052,Calle Regina,19,1
+45,37.3920955,-5.9785982,Calle Jose Laguillo,20,3
+46,37.3988222,-5.9936337,Alameda de Hércules,20,2
+47,37.3898804,-5.9744805,Avenida Kansas City,18,2
+48,37.3966427,-5.9898701,Calle Churruca,15,1
+49,37.4230116,-5.9665727,Calle Agricultores,20,3
+50,37.4204849,-5.9678863,Calle Mar de Alborán,20,1
+51,37.4178443,-5.9692737,Mar de Alborán,20,4
+52,37.4034791,-5.9812041,Avenida de la Cruz Roja,20,1
+53,37.4162681,-5.9673386,Calle Pino Montano,20,2
+54,37.3955925,-6.0024431,Avenida Torneo,20,3
+55,37.393964,-5.9968487,Plaza de la Concordia,19,4
+56,37.4219153,-5.9830562,Glorieta de los Ferroviarios,15,2
+57,37.4219455,-5.9853727,Calle de Salvador Allende,15,2
+58,37.4129286,-5.9889886,Glorieta Olímpica,20,2
+59,37.4025422,-5.9700919,Carretera de Carmona,15,4
+60,37.4049325,-5.9690227,Alcalde Manuel del Valle,20,4
+61,37.3772116,-5.981927,Calle Doctor Pedro de Castro,15,3
+62,37.3837427,-5.977445,Avenida Eduardo Dato,15,4
+63,37.387629,-5.9658559,Calle Luis Montoto,19,3
+64,37.3871884,-5.9709854,Calle Luis Montoto,15,1
+65,37.386976,-5.9780512,Avenida la Buhaira,20,3
+66,37.3875779,-5.9810425,Calle Luis Montoto,20,3
+67,37.3783622,-5.9794282,Avda. Ramón y Cajal,30,4
+68,37.3767898,-5.9978311,Calle Virgen de la Victoria,15,4
+69,37.3870633,-6.0012385,Calle Arjona,20,4
+70,37.3583986,-5.9864347,Avenida Reina Mercedes,25,3
+71,37.3681002,-5.9846888,Avenida Cardenal Bueno Monreal,20,4
+72,37.3660853,-5.975,Calle Alfonso Laso de la Vega,19,4
+73,37.4056509,-5.9984993,Puerta de la Barqueta,40,3
+74,37.381594,-5.9652201,Gran Plaza,18,1
+75,37.4070889,-6.0029652,Camino de los Descubrimientos,20,3
+76,37.411072,-6.0019106,Camino de los Descubrimientos,40,4
+77,37.4075399,-6.0074235,Calle Américo Vespucio,20,3
+78,37.4101736,-6.0056507,Calle Leonardo Da Vinci,40,2
+79,37.4028157,-6.0040768,Camino de los Descubrimientos,20,1
+80,37.4014414,-6.0090248,Calle Américo Vespucio,20,3
+81,37.391543,-5.9684556,Avenida Solea,18,1
+82,37.3819962,-5.9680625,Avenida Eduardo Dato,20,4
+83,37.3899255,-5.9708167,Calle Sinaí,14,2
+84,37.3774781,-5.9608944,Ronda Tamarguillo - Plaza Ruperto Chapí,20,1
+85,37.3734928,-5.9649124,Glorieta Bizco Amate,13,1
+86,37.3750834,-5.9675634,Avenida Ramón y Cajal,18,3
+87,37.4072386,-5.9853451,Calle Dr Marañón,15,1
+88,37.4066763,-5.9930831,Calle Avicena,20,4
+89,37.4090933,-5.9909552,Calle José Díaz,20,2
+90,37.4068864,-5.9891263,Avenida Sánchez Pizjuán,40,2
+91,37.4047516,-5.9866992,Calle San Juan de Ribera,15,1
+92,37.4070186,-5.9826416,Calle de Manuel Villalobos,20,3
+93,37.3867693,-5.9539833,Calle Zorzal,15,3
+94,37.3875947,-5.9608451,Avenida de Andalucía,20,1
+95,37.4038631,-5.9835274,Calle León XIII,15,4
+96,37.3602749,-5.976717,Calle Rafael Salgado,18,2
+97,37.3825989,-5.9711549,Avenida Eduardo Dato,20,3
+98,37.4055781,-5.9814785,Calle Manuel Villalobos,20,2
+99,37.4054796,-5.9303242,Avenida Alcalde Luis Uruñuela,15,1
+100,37.3944959,-5.921065,Avenida de las Ciencias,15,4
+101,37.3907156,-5.9591607,Calle de la A.D.A.,15,4
+102,37.4051738,-5.9331764,Avenida Alcalde Luis Uruñuela,16,4
+103,37.4038945,-5.9279828,Avenida de las Ciencias,14,3
+104,37.3874563,-5.919972,Avenida Aeronáutica,15,4
+105,37.3908025,-5.9196533,Avenida Alcalde Luis Uruñuela,12,2
+106,37.4041166,-5.9373269,Avenida Alcalde Luis Uruñuela - Aprox. estación de Renfe,15,1
+107,37.4019539,-5.9417776,Avenida Alcalde Luis Uruñuela,14,1
+108,37.402591,-5.9405994,Avenida Alcalde Luis Uruñuela - Aprox. Cueva de la Pileta,15,1
+109,37.3999402,-5.9251411,Calle Médicos Sin Frontera,14,3
+110,37.4009895,-5.9884718,Plaza Pumarejo,15,4
+111,37.4016053,-5.9837102,Calle León XIII,15,1
+112,37.387051,-5.9748439,Calle Luis Montoto,17,1
+113,37.3753464,-5.9527715,Calle Las Leandras,15,1
+114,37.376105,-5.9552373,Puerto de los Azores,15,1
+115,37.3780604,-5.9518787,Avenida Los Gavilanes,15,4
+116,37.3930879,-5.9706,Avenida Kansas City,20,3
+117,37.3961217,-5.9668118,Avenida Kansas City,20,4
+118,37.4000437,-5.9619306,Avenida Kansas City,20,4
+119,37.4093264,-5.9233566,Ciudad de Chiva,15,2
+120,37.4029991,-5.9582151,Avenida Kansas City,15,4
+121,37.4086892,-5.9279635,Calle Ciudad de Liria,15,1
+122,37.4049803,-5.9358132,Avda. Alcalde Luis Uruñuela - Aprox. Centro Comercial Zona Este,30,1
+123,37.3914176,-5.9727479,Avenida Kansas City,20,2
+124,37.395428,-5.9640258,Calle Doctor Laffon,20,2
+125,37.389342,-5.9995125,Calle Reyes Católicos,17,4
+126,37.4007128,-5.9265276,Calle Gema,15,2
+127,37.3809378,-5.9604646,Ronda Tamarguillo,20,3
+128,37.3881429,-5.9938475,Plaza San Francisco,20,2
+129,37.392217,-5.9898939,Plaza Cristo de Burgos,15,3
+130,37.3971581,-6.0062384,Camino de los Descubrimientos,40,4
+131,37.3964777,-5.9873931,Calle Hiniesta,15,1
+132,37.399968,-5.9562845,Calle Antioquía - Aprox. Avda de Pedro Romero,15,3
+133,37.3790534,-5.9899085,Glorieta San Diego,15,4
+134,37.3929973,-5.9868947,Plaza Jerónimo de Córdoba,20,3
+135,37.4041941,-6.0073507,Calle Leonardo Da Vinci,20,1
+136,37.3975341,-6.0105843,Calle Américo Vespucio,40,3
+137,37.409433,-6.0069599,Calle Américo Vespucio,20,1
+138,37.4122217,-6.0063862,Calle Américo Vespucio,20,3
+139,37.4158701,-6.0057752,Estadio Olímpico,20,3
+140,37.3827512,-5.9836676,Calle Juan de Mata Carriazo,20,2
+141,37.3874214,-5.9829997,Calle José María Moreno Galván,20,1
+142,37.3798544,-5.9746076,Avenida San Francisco Javier,15,4
+143,37.3731405,-5.9740229,Calle José Saramago,20,2
+144,37.4134313,-5.9824322,Ronda Urbana Norte - Aprox. C/ Doctor Fedriani,20,3
+145,37.4146363,-5.9738343,Calle Victoria Kent,15,2
+146,37.3871686,-5.9486212,Avenida de Andalucía - Aprox. Cochera de TUSSAM,20,3
+147,37.3804815,-5.9535723,Glorieta del Primero de Mayo - Aprox. C/ Carlos Marx,15,4
+148,37.3996367,-5.9777243,Carretera de Carmona,15,2
+149,37.3932438,-5.9838491,Calle de Maria Auxiliadora,15,3
+150,37.390463,-5.9980113,Calle San Pablo,20,3
+151,37.3837457,-5.9148102,Estaca de Vares,17,3
+152,37.4215199,-5.9715297,Calle Corral del Agua,20,1
+153,37.4247213,-5.9699087,Calle Estrella Canopus,20,1
+154,37.4185712,-5.9732617,Calle Parque de Doñana,20,4
+155,37.3851694,-6.0036808,Plaza del Altozano,14,4
+156,37.3833998,-6.0082126,Plaza del Zurraque,18,3
+157,37.3869518,-6.0076608,Calle Procurador,20,1
+158,37.3688783,-5.9813853,Avenida Cardenal Bueno Monreal,20,1
+159,37.3860346,-5.9100839,Miguel Montoro,30,1
+160,37.3859534,-5.9137797,Pero Mingo,30,4
+161,37.3841827,-5.9798343,Avenida Eduardo Dato,20,3
+162,37.3842949,-5.9824304,Avenida Eduardo Dato,20,3
+163,37.3937233,-5.9818532,Calle Arroyo,20,4
+164,37.3647499,-5.9814522,Calle Tabladilla,20,3
+165,37.3961269,-5.9588167,Calle Tesalónica,20,3
+166,37.3938599,-5.9623474,Calle de la A.D.A,15,3
+167,37.3807308,-6.0092094,Plaza San Martín de Porres,15,1
+168,37.3730403,-5.9691616,Avenida Alcalde Juan Fernández,17,2
+169,37.3801273,-5.9971188,Plaza de Cuba,20,2
+170,37.3687499,-5.9572158,Avenida Hytasa,15,4
+171,37.3723655,-5.9632292,Avenida Hytasa,20,4
+172,37.3846992,-5.9725875,Calle Luis Morales,30,1
+173,37.382817,-5.9735307,Avenida Eduardo Dato,15,2
+174,37.3806956,-5.9869575,Ciudad de Ronda,20,1
+175,37.3813994,-5.9867247,Prado de San Sebastián,40,3
+176,37.3957014,-5.9737119,CALLE SAMANIEGO,20,2
+177,37.3636194,-5.9847852,Calle Paez de Rivera,20,3
+178,37.3740394,-6.0041982,Avenida Santa Fe,20,3
+179,37.3747704,-5.9985362,Calle Virgen de Luján,24,4
+180,37.3745382,-5.9947455,Calle Virgen de Luján,17,3
+181,37.3731194,-5.9976102,Calle Asunción,20,3
+182,37.3736779,-5.9854767,Avenida de la Borbolla,20,2
+183,37.3760219,-5.9790768,Calle Ramón Carande,20,2
+184,37.3750412,-5.9757977,Avenida Diego Martínez Barrio,15,2
+185,37.3723704,-5.9773621,Calle Felipe II,16,4
+186,37.371606,-5.9818494,Calle Felipe II,20,1
+187,37.3716758,-5.9975514,Calle Ramón de Carranza,18,3
+188,37.3715555,-6.0032632,Calle Ramón de Carranza,18,1
+189,37.369057,-5.9879693,Avenida de la Palmera,20,2
+190,37.3602332,-5.9863182,Avenida Reina Mercedes,20,1
+191,37.3601006,-5.986313,Avenida Reina Mercedes,20,4
+192,37.3986121,-5.973625,Calle Tharsis,20,4
+193,37.3978221,-5.9760843,Calle Arroyo,20,2
+194,37.3967485,-5.9786342,Calle San Juan Bosco,20,1
+195,37.4004879,-5.9983869,Calle San Vicente,20,4
+196,37.3987216,-5.9895023,Plaza Cronista,15,2
+197,37.3712795,-5.9891934,Avenida de la Palmera,18,2
+198,37.3912974,-5.9881754,Calle Alhóndiga,14,1
+199,37.3907943,-5.982764,Calle Amador de los Ríos,20,3
+200,37.3812308,-5.9935552,Calle Roma,20,2
+201,37.3854144,-6.0111606,Ronda de Triana,20,3
+202,37.3831234,-6.0108763,Ronda de Triana,15,2
+203,37.3815146,-5.9955663,Paseo de Cristóbal Colón,20,1
+204,37.3817511,-5.9933071,Avenida de Roma,30,4
+205,37.3589104,-5.9806202,Calle Francisco Murillo,19,1
+206,37.3801188,-6.0043502,Avenida Esperanza de Triana,20,2
+207,37.3777579,-6.0070758,Calle López de Gomara,20,4
+208,37.3614304,-5.9816032,Calle Manuel Siurot,20,1
+209,37.3773761,-5.9918804,Avenida de Chile,20,3
+210,37.3785777,-5.9784022,Calle Enramadilla,20,1
+211,37.3777629,-5.9773334,Calle Enramadilla,20,3
+212,37.3946087,-5.9799727,Calle Urquiza,20,4
+213,37.3629714,-5.9862622,Avenida Reina Mercedes,27,4
+214,37.3697994,-5.9781947,Avenida Cardenal Bueno Monreal,20,4
+215,37.4000005,-5.9691031,Avenida Alcalde Manuel del Valle,20,2
+216,37.3790204,-5.9688772,Plaza Antonio Aparicio Herrero,18,1
+217,37.3885079,-5.959401,Ronda del Tamarguillo,13,1
+218,37.376576,-5.9727121,Avenida Ramón y Cajal,20,2
+219,37.3670886,-5.971157,Ronda Tamarguillo,19,1
+220,37.3695198,-5.9686169,Ronda Tamarguillo,20,4
+221,37.377487,-5.9665541,Avenida de la Ciudad Jardin,20,4
+222,37.4110149,-5.971678,Alcalde Manuel del Valle,15,1
+223,37.4086593,-5.9731965,Calle Orfebre Dominguez Vázquez,20,2
+224,37.3700534,-5.9594961,Avenida Hytasa,20,4
+225,37.3741964,-6.0088305,Glorieta Carlos Cano,20,1
+226,37.3783344,-6.0115563,Avenida de Alvar Núñez,19,1
+227,37.3811114,-6.0120053,Avenida de Coria,20,3
+228,37.4189136,-5.9632171,Camino de los Toros,20,2
+229,37.4114666,-5.9667631,Avenida Mujer Trabajadora,20,1
+230,37.3976897,-5.9616014,Calle Doctor Laffon,15,1
+231,37.3871628,-5.9483902,Avenida de Andalucía - Aprox. Entrada TUSSAM,20,1
+232,37.3970135,-5.923757,Avenida de las Ciencias,15,3
+233,37.3973905,-5.918777,Calle Flor de Retama,15,4
+234,37.4028629,-5.9217537,Avenida Doctor Emilio Lemos,15,4
+235,37.4039396,-5.939739,Avenida Alcalde Luis Uruñuela,15,1
+236,37.4117358,-5.9298591,Ciudad de Chiva,15,4
+237,37.4102171,-5.9264224,Ciudad de Chiva,15,4
+238,37.4081326,-5.919993,Ciudad de Chiva,15,1
+239,37.3888532,-5.9962357,Plaza Nueva,20,4
+240,37.38889,-5.9962396,Plaza Nueva,20,2
+241,37.4247584,-5.9848237,Calle Navarra,15,4
+242,37.3843494,-5.9653784,Avda. Cruz Campo,15,1
+243,37.3837695,-5.9089219,Torres Albarracin,20,2
+244,37.3673184,-5.9541171,Ocho de Marzo,30,3
+245,37.378801,-5.9456668,Revoltosa,20,1
+246,37.3902925,-5.9799642,Calle Juan Antonio Cabestany,15,2
+248,37.3757344,-5.9991689,) Calle Virgen de Loreto,18,2
