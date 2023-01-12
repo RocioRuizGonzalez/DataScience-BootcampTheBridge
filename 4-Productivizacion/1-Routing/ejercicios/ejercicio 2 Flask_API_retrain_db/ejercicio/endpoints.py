@@ -48,8 +48,6 @@ def retrain():
     pkl.dump(model_retrain, open(modelfile, 'wb'))
     
     return f'<h1>Se ha reentrenado el modelo</p>'
-
-
     
   
 app.run(port=5000)
